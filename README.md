@@ -19,7 +19,8 @@ I'm a fast-growing developer Si-Yual Park. I'm interested in backend, refactorin
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   23 mins             ███████████████████░░░░░░   75.88% 
+SQL                      7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.12%
 
 ```
 
