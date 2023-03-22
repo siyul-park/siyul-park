@@ -4,13 +4,13 @@
 I'm a fast-growing developer Si-Yual Park. I'm interested in backend, refactoring and learning new technologies. I am confident that the clean code and efficient process of software engineering can contribute to improving the productivity of the team. My goal is to become a developer who has a positive influence to others 🔭
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                3588 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+🌆 Daytime                8603 commits        ████████░░░░░░░░░░░░░░░░░   33.05 % 
+🌃 Evening                12286 commits       ████████████░░░░░░░░░░░░░   47.20 % 
+🌙 Night                  1551 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 ```
 
 
@@ -18,8 +18,7 @@ I'm a fast-growing developer Si-Yual Park. I'm interested in backend, refactorin
 
 ```text
 💬 Programming Languages: 
-C++                      6 mins              █████████████████████████   99.87 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 ```
 
 
