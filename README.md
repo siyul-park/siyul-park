@@ -18,7 +18,7 @@ I'm a fast-growing developer Si-Yul Park. I'm interested in backend, refactoring
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       4 mins              █████████████████████████   100.00 % 
 ```
 
 
