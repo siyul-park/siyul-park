@@ -1,7 +1,6 @@
-### Hi there 👋
+### Dynamic Developer in Backend and Emerging Technologies 🚀 
 
-
-I'm a fast-growing developer Si-Yul Park. I'm interested in backend, refactoring and learning new technologies. I am confident that the clean code and efficient process of software engineering can contribute to improving the productivity of the team. My goal is to become a developer who has a positive influence to others 🔭
+Embark on a seamless journey through the intricate landscapes of backend development, the artful domain of refactoring, and the cutting-edge frontiers of emerging technologies. Navigating with a commitment to enhance team productivity through the elegance of clean code and streamlined processes, I aspire to embody excellence in software development and cast a positive influence across the dynamic spectrum of technology. Ready for this smooth expedition? 🔭🚀
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
