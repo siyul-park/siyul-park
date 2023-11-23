@@ -1,6 +1,6 @@
 ### Dynamic Developer in Backend and Emerging Technologies 🚀 
 
-Embark on a seamless journey through the intricate landscapes of backend development, the artful domain of refactoring, and the cutting-edge frontiers of emerging technologies. Navigating with a commitment to enhance team productivity through the elegance of clean code and streamlined processes, I aspire to embody excellence in software development and cast a positive influence across the dynamic spectrum of technology. Ready for this smooth expedition?
+Explore the realms of backend development, the art of refactoring, and the latest in emerging technologies with a focus on productivity. Navigating through clean code and streamlined processes, the aim is to embody excellence in software development, influencing the tech landscape positively. Ready for the journey?
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
