@@ -1,6 +1,6 @@
 ### Dynamic Developer in Backend and Emerging Technologies 🚀 
 
-Explore the realms of backend development, the art of refactoring, and the latest in emerging technologies with a focus on productivity. Navigating through clean code and streamlined processes, the aim is to embody excellence in software development, influencing the tech landscape positively. Ready for the journey?
+Let's explore backend development, architecture, and the latest technologies together. The goal is to showcase excellent skills in software development, share knowledge, and have a positive impact on society. Are you ready to start this journey with me?
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
