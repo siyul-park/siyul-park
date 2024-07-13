@@ -3,13 +3,13 @@
 Let's explore backend development, architecture, and the latest technologies together. The goal is to showcase excellent skills in software development, share knowledge, and have a positive impact on society. Are you ready to start this journey with me?
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4357 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-🌆 Daytime                9738 commits        █████████░░░░░░░░░░░░░░░░   34.49 % 
-🌃 Evening                12601 commits       ███████████░░░░░░░░░░░░░░   44.63 % 
-🌙 Night                  1536 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+🌞 Morning                4524 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+🌆 Daytime                10198 commits       █████████░░░░░░░░░░░░░░░░   34.92 % 
+🌃 Evening                12937 commits       ███████████░░░░░░░░░░░░░░   44.30 % 
+🌙 Night                  1544 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 ```
 
 
@@ -17,7 +17,10 @@ Let's explore backend development, architecture, and the latest technologies tog
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 hrs 11 mins       █████████████████████████   99.48 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
