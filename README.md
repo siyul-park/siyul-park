@@ -8,7 +8,7 @@ Let's explore backend development, architecture, and the latest technologies tog
 ```text
 🌞 Morning                5416 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 🌆 Daytime                12566 commits       █████████░░░░░░░░░░░░░░░░   36.52 % 
-🌃 Evening                14806 commits       ███████████░░░░░░░░░░░░░░   43.04 % 
+🌃 Evening                14808 commits       ███████████░░░░░░░░░░░░░░   43.04 % 
 🌙 Night                  1616 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 
@@ -17,7 +17,7 @@ Let's explore backend development, architecture, and the latest technologies tog
 
 ```text
 💬 Programming Languages: 
-Go                       0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
