@@ -5,11 +5,11 @@ Let's explore backend development, architecture, and the latest technologies tog
 <!--START_SECTION:waka-->
 
 ```txt
-Go                            10 hrs 41 mins  ███████████████░░░░░░░░░░   60.35 %
-YAML                          3 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
-Markdown                      1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-TOML                          38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Makefile                      22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Go                            3 hrs 38 mins   ██████████▒░░░░░░░░░░░░░░   41.41 %
+YAML                          3 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.99 %
+Markdown                      58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+Makefile                      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+go.mod                        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
