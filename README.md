@@ -5,11 +5,11 @@ Let's explore backend development, architecture, and the latest technologies tog
 <!--START_SECTION:waka-->
 
 ```txt
-Go                   7 hrs 6 mins    ████████████████░░░░░░░░░   63.86 %
-YAML                 3 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.24 %
-Markdown             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Docker               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-x86 Plan9 Assembly   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Go         3 hrs 49 mins   █████████████▒░░░░░░░░░░░   52.69 %
+YAML       3 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.14 %
+Docker     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Makefile   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
