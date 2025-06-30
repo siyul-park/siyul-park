@@ -5,9 +5,7 @@ Let's explore backend development, architecture, and the latest technologies tog
 <!--START_SECTION:waka-->
 
 ```txt
-Go       1 hr 10 mins    ████████████████████████▓   98.53 %
-go.mod   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
