@@ -5,7 +5,7 @@ Let's explore backend development, architecture, and the latest technologies tog
 <!--START_SECTION:waka-->
 
 ```txt
-Go   8 hrs 21 mins   █████████████████████████   100.00 %
+Go   4 hrs 14 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
