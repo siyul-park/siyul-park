@@ -5,9 +5,11 @@ Let's explore backend development, architecture, and the latest technologies tog
 <!--START_SECTION:waka-->
 
 ```txt
-Go                   1 hr 48 mins          ████████████████████████▓   98.59 %
-x86 Plan9 Assembly   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Assembly             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Go         2 hrs 38 mins         ███████████████████████▓░   94.26 %
+Markdown   8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Assembly   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
