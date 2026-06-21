@@ -5,11 +5,10 @@ Let's explore backend development, architecture, and the latest technologies tog
 <!--START_SECTION:waka-->
 
 ```txt
-Go         16 hrs 38 mins        ███████████████████░░░░░░   76.29 %
-Markdown   4 hrs 58 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
-JSON       11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go         12 hrs 4 mins         ██████████████████▓░░░░░░   74.17 %
+Markdown   4 hrs 1 min           ██████░░░░░░░░░░░░░░░░░░░   24.66 %
+JSON       11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Git        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
