@@ -1,6 +1,10 @@
-### Software Engineer Exploring Technology 🚀 
+### Software Engineer Exploring Technology 🚀
 
-Let's explore backend development, architecture, and the latest technologies together. The goal is to showcase excellent skills in software development, share knowledge, and have a positive impact on society. Are you ready to start this journey with me?
+I’m a software engineer passionate about backend development, architecture, and modern technology.
+
+I enjoy designing scalable systems, writing clean and reliable code, and continuously exploring new ideas that improve how software is built. Through my work, I aim to share knowledge, grow with the developer community, and create technology that brings positive value to society.
+
+Let’s explore, build, and shape the future of software together.
 
 <!--START_SECTION:waka-->
 
