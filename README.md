@@ -9,11 +9,10 @@ Let’s explore, build, and shape the future of software together.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   11 hrs 11 mins        █████████████▒░░░░░░░░░░░   53.46 %
-Go         5 hrs 40 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
-Other      3 hrs 57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-Assembly   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Text       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Markdown   9 hrs 53 mins         ██████████████▓░░░░░░░░░░   58.93 %
+Go         3 hrs 32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
+Other      3 hrs 14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.35 %
+Assembly   5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
