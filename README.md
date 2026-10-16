@@ -9,11 +9,11 @@ Let’s explore, build, and shape the future of software together.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown        13 hrs 43 mins        █████████████░░░░░░░░░░░░   51.65 %
-Rust            3 hrs 27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Other           2 hrs 24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-Python          2 hrs 22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-YAML            2 hrs 18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Markdown        17 hrs 30 mins        ███████████████▒░░░░░░░░░   61.66 %
+Rust            2 hrs 56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Python          2 hrs 46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+YAML            2 hrs 3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Other           1 hr 14 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->
